@@ -18,7 +18,48 @@
       "end_of_life": "17/6/18",
       "months_to_renew_support": "30",
       "sme_email": "Liam.Estick@memento.net.au",
-      "investment_number": "281"
+      "investment_number": "281",
+      "integrations": [
+        {
+          "id": "int-338",
+          "name": "INT-338",
+          "categoryId": "cfecb993-3f2a-4a06-83db-c9a48bf8ddad",
+          "description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.",
+          "sourceApplicationId": "biodex",
+          "targetApplicationId": "cookley",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#FF0000",
+          "pattern": "Fire and Forget",
+          "golive_date": "20/1/07",
+          "sme_name": "Gabriel Van Hault",
+          "decom_date": "28/1/13",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "System Control",
+          "status": "Decomissioned",
+          "sme_email": "gvanc@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "24/3/17"
+        },
+        {
+          "id": "int-449",
+          "name": "INT-449",
+          "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
+          "description": "Donec semper sapien a libero. Nam dui.",
+          "sourceApplicationId": "biodex",
+          "targetApplicationId": "cookley",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "Countent Based Router",
+          "golive_date": "31/1/13",
+          "sme_name": "Hannis Pantin",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "hpantin6@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "7/11/14"
+        }
+      ]
     }
   ]
 }
